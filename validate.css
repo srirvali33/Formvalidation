@@ -1,0 +1,24 @@
+.info{
+ visibility: visible;
+}
+.hidespan{
+    visibility: hidden;
+    display:none;
+}
+.ok{
+    color:green
+}
+.error{
+    color: red;
+}
+.mainwrapper{
+    margin-left:30%;
+}
+.heading{
+    position: relative;
+    left: 15%;
+}
+.submitbtn{
+    position: relative;
+    left: 20%;
+}
